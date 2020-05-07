@@ -16,6 +16,6 @@ To create the database and run the migrations:
 
 `python manage.py migrate`
 
-To create an admin user:
+To create an admin user, run:
 
 `python manage.py createsuperuser`
